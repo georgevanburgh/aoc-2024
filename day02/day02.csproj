@@ -8,4 +8,8 @@
     <PublishAot>true</PublishAot>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MoreLinq" Version="4.3.0" />
+  </ItemGroup>
+
 </Project>
